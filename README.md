@@ -1,5 +1,5 @@
 # PopupWihter3
-PopupWither is 
+PopupWither3 is PopupWither for web socket 
 
 # Web Socket Server setup
 ```
